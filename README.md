@@ -29,7 +29,17 @@ A collection of UI/UX design resources.
 
 ### UI 模板 | UI Kit
 
-(To be continued)
+1. [iOS8 Illustrator Vector UI Kit](http://mercury.io/blog/ios-8-illustrator-vector-ui-kit-update?ref=hackingui)
+2. [iOS8 UI Kit For SKetch](https://github.com/rafaelconde/ios8-ui-kit)
+3. [Apple Watch UI Kit](https://dribbble.com/shots/1735649-Apple-Watch-GUI-PSD)
+4. [Apple Watch .sketch File](https://dribbble.com/shots/1720013-Apple-WATCH)
+4. [iPhone6 Template [PSD]](https://dribbble.com/shots/1722076-Free-iPhone-6-4-7-inch-Template-PSD)
+5. [Uber Watch](https://dribbble.com/shots/1723575-Uber-Watch-Freebie)
+5. [iPhone6 Plus Template[PSD]](https://dribbble.com/shots/1731346-Free-iPhone-6-PLUS-5-5-inch-Templates-PSD)
+6. [iPhone6 PSD Mockup](http://www.graphicsoulz.com/premium-item/iphone-6-psd-mockup-freebie/)
+7. [iPhon6 PSD Mockup （带场景图）](https://dribbble.com/shots/1736601-6-Photorealistic-iPhone-6-mockups?list=users)
+8. [iPhone6 Plus PSD Vector Mockup （矢量）](https://dribbble.com/shots/1719600-iPhone-6-Plus-Psd-Vector-Mockup?list=searches&tag=iphone_6&offset=14)
+9. [Apple 官方产品图片下载](https://developer.apple.com/app-store/marketing/guidelines/#images)
 
 
 ## Android 设计 | Android Design
