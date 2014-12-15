@@ -12,6 +12,8 @@ A collection of UI/UX design resources.
 3. [Lovely UI](http://www.lovelyui.com/)。一个移动 UI 设计元素的集合。
 4. [Zurb University Pattern TAP](http://patterntap.com/) Zurb 出品。
 5. [Inspired UI](http://inspired-ui.com/)包括 iPhone, iPad 和 Android。
+6. [设计模式 - Web 端](http://ui-patterns.com/patterns)：主要为 Web 端的设计模式。
+7. [Android 设计模式](http://www.android-app-patterns.com/)
 
 ### 动效设计模式 | Motion Design Patterns
 
@@ -29,17 +31,33 @@ A collection of UI/UX design resources.
 
 ### UI 模板 | UI Kit
 
+#### 系统 | OS
+
 1. [iOS8 Illustrator Vector UI Kit](http://mercury.io/blog/ios-8-illustrator-vector-ui-kit-update?ref=hackingui)
 2. [iOS8 UI Kit For SKetch](https://github.com/rafaelconde/ios8-ui-kit)
-3. [Apple Watch UI Kit](https://dribbble.com/shots/1735649-Apple-Watch-GUI-PSD)
-4. [Apple Watch .sketch File](https://dribbble.com/shots/1720013-Apple-WATCH)
-4. [iPhone6 Template [PSD]](https://dribbble.com/shots/1722076-Free-iPhone-6-4-7-inch-Template-PSD)
-5. [Uber Watch](https://dribbble.com/shots/1723575-Uber-Watch-Freebie)
-5. [iPhone6 Plus Template[PSD]](https://dribbble.com/shots/1731346-Free-iPhone-6-PLUS-5-5-inch-Templates-PSD)
-6. [iPhone6 PSD Mockup](http://www.graphicsoulz.com/premium-item/iphone-6-psd-mockup-freebie/)
-7. [iPhon6 PSD Mockup （带场景图）](https://dribbble.com/shots/1736601-6-Photorealistic-iPhone-6-mockups?list=users)
-8. [iPhone6 Plus PSD Vector Mockup （矢量）](https://dribbble.com/shots/1719600-iPhone-6-Plus-Psd-Vector-Mockup?list=searches&tag=iphone_6&offset=14)
-9. [Apple 官方产品图片下载](https://developer.apple.com/app-store/marketing/guidelines/#images)
+
+
+#### 设备 | Devices
+
+1. [iPhone6 Plus Template[PSD]](https://dribbble.com/shots/1731346-Free-iPhone-6-PLUS-5-5-inch-Templates-PSD)
+2. [iPhone6 PSD Mockup](http://www.graphicsoulz.com/premium-item/iphone-6-psd-mockup-freebie/)
+3. [iPhon6 PSD Mockup （带场景图）](https://dribbble.com/shots/1736601-6-Photorealistic-iPhone-6-mockups?list=users)
+4. [iPhone6 Plus PSD Vector Mockup （矢量）](https://dribbble.com/shots/1719600-iPhone-6-Plus-Psd-Vector-Mockup?list=searches&tag=iphone_6&offset=14)
+5. [Apple 官方产品图片下载](https://developer.apple.com/app-store/marketing/guidelines/#images)
+6. [iPhone6 Template [PSD]](https://dribbble.com/shots/1722076-Free-4.iPhone-6-4-7-inch-Template-PSD)
+7. [设备模板](http://www.sketchappsources.com/category/device.html)
+
+
+#### Apple Watch
+
+1. [Apple Watch UI Kit](https://dribbble.com/shots/1735649-Apple-Watch-GUI-PSD)
+2. [Apple Watch .sketch File](https://dribbble.com/shots/1720013-Apple-WATCH)
+3. [Uber Watch](https://dribbble.com/shots/1723575-Uber-Watch-Freebie)
+
+#### 框线图模板 | Wireframe Mockup
+
+
+
 
 
 ## Android 设计 | Android Design
