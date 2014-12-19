@@ -68,6 +68,12 @@ A collection of UI/UX design resources.
 
 ### 指南 | Guidelines
 
+## 音效资源 | UI Sounds
+1. [http://raisedbeaches.com/octave/
+](http://raisedbeaches.com/octave/)
+2. [http://www.freesound.org/](http://www.freesound.org/)
+3. [https://soundkit.io/](https://soundkit.io/)
+4. [http://rcptones.com/dev_tones/](http://rcptones.com/dev_tones/)
 
 
 
