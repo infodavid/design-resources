@@ -60,11 +60,12 @@ A collection of UI/UX design resources.
 
 
 
-## Android 设计 | Android Design
+## Android Material 设计 | Android Design
 
 1. [Material Design 官方英文版](http://www.google.com/design/spec/material-design/introduction.html#)，中文版[点击此处](http://design.1sters.com/)
 2. [Material Up](http://www.materialup.com/)
 3. [Material Design Spec - Color](http://www.google.com/design/spec/style/color.html)
+4. [http://material.cmiscm.com/](http://material.cmiscm.com/)：一些有趣的 Demo
 
 ### 指南 | Guidelines
 
