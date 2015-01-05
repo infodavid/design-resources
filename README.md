@@ -76,6 +76,14 @@ A collection of UI/UX design resources.
 3. [https://soundkit.io/](https://soundkit.io/)
 4. [http://rcptones.com/dev_tones/](http://rcptones.com/dev_tones/)
 
+## 技巧练习 | Skills
+
+### 设计的技巧
+
+1. [http://bezier.method.ac/](http://bezier.method.ac/)：一个教你掌握钢笔工具的游戏
+2. [http://cubic-bezier.com/](http://cubic-bezier.com/)贝塞尔曲线值。
+
+
 
 
 
