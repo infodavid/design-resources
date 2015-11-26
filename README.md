@@ -81,10 +81,14 @@ A collection of UI/UX design resources.
 ### 设计的技巧
 
 1. [http://bezier.method.ac/](http://bezier.method.ac/)：一个教你掌握钢笔工具的游戏
-2. [http://cubic-bezier.com/](http://cubic-bezier.com/)贝塞尔曲线值。
+2. [http://cubic-bezier.com/](http://cubic-bezier.com/)贝塞尔曲线值
 
 
-
+## Framerjs 资源
+1. [http://framerco.de/](http://framerco.de/) 一个关于 Framerjs 的组件，代码的集合地
+2. [http://prototyp.in/](http://prototyp.in/) 在浏览器中利用 js 创建原型
+3. [http://www.prototypingwithframer.com/](http://www.prototypingwithframer.com/) 每周都会有小贴士以及教程，帮助你更好的创建原型
+4. [http://www.stakelon.com/2015/03/40-examples-of-how-to-design-with-code-using-framer/](http://www.stakelon.com/2015/03/40-examples-of-how-to-design-with-code-using-framer/) 40个如何通过Framer用编程的方式设计的案例
 
 
 
